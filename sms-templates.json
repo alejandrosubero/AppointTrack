@@ -1,0 +1,34 @@
+
+
+
+{
+  "defaultTemplate": "{greeting} {customerName}, this is {techName} with Terminix reminding you that I will be out on {date} between {timeRange} for your regular {serviceName}. Please make sure your pets are secured. Please confirm this text message. Thank you!",
+  "templates": [
+    {
+      "serviceId": "pest",
+      "serviceName": "Pest Control",
+      "messageTemplate": "{greeting} {customerName}, this is {techName} with Terminix reminding you that I will be out on {date} between {timeRange} for your regular {serviceName}. Please confirm this text message and make sure your pets are secured. If you have issues inside, please let me know. Otherwise, I will focus on the exterior perimeter: de-webbing, applying a protective barrier around the foundation, windows, and doors, and treating active areas. Thank you!"
+    },
+    {
+      "serviceId": "mosquito",
+      "serviceName": "Mosquito control",
+      "messageTemplate": "{greeting} {customerName}, this is {techName} with Terminix reminding you that I will be out on {date} between {timeRange} for your regular {serviceName}. Please make sure your pets are secured. If you have issues inside, please let me know. Please confirm this text message. Thank you!"
+    },
+    {
+      "serviceId": "mosquito",
+      "serviceName": "Mosquito & Tick",
+       "messageTemplate": "{greeting} {customerName}, this is {techName} with Terminix reminding you that I will be out on {date} between {timeRange} for your regular {serviceName}. Please make sure your pets are secured. If you have issues inside, please let me know. Please confirm this text message. Thank you!"
+    },
+    {
+      "serviceId": "tick",
+      "serviceName": "Tick Control",
+       "messageTemplate": "{greeting} {customerName}, this is {techName} with Terminix reminding you that I will be out on {date} between {timeRange} for your regular {serviceName}. Please make sure your pets are secured. If you have issues inside, please let me know. Please confirm this text message. Thank you!"
+    },
+     {
+      "serviceId": "termite",
+      "serviceName": "Termite Inspection",
+      "messageTemplate": "{greeting}, {techName} here. Confirming our appointment for {serviceName} today at {address}."
+    }
+  ]
+}
+
