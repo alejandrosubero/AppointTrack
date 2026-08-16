@@ -1,39 +1,39 @@
 [
     {
         "service_code": "EGPCREG",
-        "serviceName": "Ext General Pest Control"
+        "serviceName": "Ext General Pest Control Service"
     },
     {
         "service_code": "MOSQREG",
-        "serviceName": "Mosquito control"
+        "serviceName": "Mosquito control Service"
     },
     {
         "service_code": "UPMTREG",
-        "serviceName": "Mosquito & Tick"
+        "serviceName": "Mosquito & Tick Service"
     },
     {
         "service_code": "TICKREG",
-        "serviceName": "Tick Control"
+        "serviceName": "Tick Control Service"
     },
       {
         "service_code": "NTCKREG",
-        "serviceName": "Tick Control"
+        "serviceName": "Tick Control Service"
     },
     {
         "service_code": "GPCREG",
-        "serviceName":  "General Pest Control"
+        "serviceName":  "General Pest Control Service"
     },
      {
         "service_code": "UPPDREG",
-        "serviceName":  "Bundled Pest Control"
+        "serviceName":  "Bundled Pest Control Service"
     },
      {
         "service_code": "EGPCINI",
-        "serviceName":  "Ext General Pest Control Initial"
+        "serviceName":  "Ext General Pest Control Initial Service"
     },
     {
         "service_code": "EGPCXTR",
-        "serviceName":  "Ext General Pest Control Extra"
+        "serviceName":  "Ext General Pest Control Extra Service"
     }
 
 ]
