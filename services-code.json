@@ -27,6 +27,11 @@
         "service_code": "UPPDREG",
         "serviceName":  "Bundled Pest Control Service"
     },
+  {
+        "service_code": "UPPPREG",
+        "serviceName":  "Ultimate Protection Pest Control Service"
+    },
+
      {
         "service_code": "EGPCINI",
         "serviceName":  "Ext General Pest Control Initial Service"
